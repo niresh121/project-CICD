@@ -1,0 +1,18 @@
+[2024-02-07 8:59:02] [INFO ] 27064 - set_log_dir=[C:\Users\NIRESH\AppData\Local\Temp\Wondershare\NativePush\]
+[2024-02-07 8:59:02] [INFO ] 27064 - collect, set sensors project=[UA_Nativepush_Win]
+[2024-02-07 8:59:02] [INFO ] 27064 - collect, set track id=[UA-Nativepush-Win].
+[2024-02-07 8:59:02] [INFO ] 27064 - collect, set user id=[0].
+[2024-02-07 8:59:02] [INFO ] 27064 - check_upgrade_utf8.
+[2024-02-07 8:59:02] [INFO ] 27064 - check, param:{"pid":14416,"version":"1.0.0.7","brand":"wondershare","wsid":"0","platform":"win_x64"}
+[2024-02-07 8:59:02] [INFO ] 27064 - collect, init, did=[{da233325-ecfc-488e-b3f6-0936ae0bac46G}]
+[2024-02-07 8:59:02] [INFO ] 27064 - sensors init result=[1].
+[2024-02-07 8:59:02] [INFO ] 27064 - collect, regist type=[0]
+[2024-02-07 8:59:02] [INFO ] 27064 - collect, pid=[14416], old_ver=[1.0.0.7], new_ver=[], force=[0], silence=[0], full_pkg=[1]
+[2024-02-07 8:59:02] [INFO ] 27064 - collect, check begin
+[2024-02-07 8:59:03] [INFO ] 27064 - get user token, pid=[14416], pver=[1.0.0.7], sn=[{da233325-ecfc-488e-b3f6-0936ae0bac46G}]
+[2024-02-07 8:59:06] [INFO ] 27064 - req check, server err=[0], strResponse:{"code":0,"msg":"","data":null}
+[2024-02-07 8:59:06] [INFO ] 27064 - process check result.
+[2024-02-07 8:59:06] [INFO ] 27064 - collect, pid=[14416], old_ver=[1.0.0.7], new_ver=[], force=[0], silence=[0], full_pkg=[1]
+[2024-02-07 8:59:06] [INFO ] 27064 - collect, check end, code=[0]
+[2024-02-07 8:59:08] [INFO ] 27064 - send data, type=[1], errcode=[0]
+[2024-02-07 8:59:08] [INFO ] 27064 - get user token, pid=[14416], pver=[1.0.0.7], sn=[{da233325-ecfc-488e-b3f6-0936ae0bac46G}]

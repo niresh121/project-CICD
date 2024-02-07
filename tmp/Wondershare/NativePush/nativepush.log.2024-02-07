@@ -1,0 +1,19 @@
+[2024-02-06 19:42:20] [INFO] 25088 - version=[1.0.0.7]
+[2024-02-06 19:42:27] [INFO] 25088 - upgrade, check ok! need_upgrade=[0], new_version=[], path=[].
+[2024-02-06 19:42:27] [INFO] 25088 - init toast notification.
+[2024-02-06 19:42:27] [INFO] 25088 - init db.
+[2024-02-06 19:42:27] [INFO] 25088 - init cloud notification manager.
+[2024-02-06 19:42:27] [INFO] 25088 - init http service.
+[2024-02-06 19:42:27] [INFO] 25088 - init APIs.
+[2024-02-06 19:42:27] [INFO] 25088 - http server, start.
+[2024-02-06 19:42:27] [INFO] 25088 - http server, listening for connections.
+[2024-02-06 19:42:29] [INFO] 10292 - sensors, on timer callback.
+[2024-02-06 19:42:29] [INFO] 27504 - cloud mgr, on timer callback.
+[2024-02-06 19:42:29] [INFO] 10292 - sensors init project=[UA_Nativepush_Win], result=[1].
+[2024-02-06 19:42:29] [INFO] 27504 - cbm, on query msg, pid=[1901], pstatus=[3], uid=[0].
+[2024-02-06 19:42:29] [INFO] 27504 - query notification, did=[{da233325-ecfc-488e-b3f6-0936ae0bac46G}], pid=[1901], pver=[1.0.0.0], wsid=[0]
+[2024-02-06 19:42:29] [INFO] 27504 - get user token, pid=[1901], pver=[1.0.0.0], sn=[{da233325-ecfc-488e-b3f6-0936ae0bac46G}]
+[2024-02-06 19:42:31] [INFO] 2448 - sensors, on timer callback.
+[2024-02-06 19:42:32] [INFO] 27504 - cloud mgr, parse notification, count=[0].
+[2024-02-06 19:42:32] [INFO] 27504 - cbm, on receive msg, pid=[1901], pstatus=[3], uid=[0], nid=[], err=[0].
+[2024-02-06 19:42:33] [INFO] 112 - sensors, on timer callback.
